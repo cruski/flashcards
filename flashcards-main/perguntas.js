@@ -1,17 +1,23 @@
-criaCARTAO(
+criaCartao(
     'Programação',
-   'O que é JavaScript?',
-    'O JavaScript é uma linguagem de progração'
+    'O que é Python?',
+    'O Python é uma linguagem de programação'
 )
 
-criaCARTAO(
+criaCartao(
     'Geografia',
-    'Qual a caoital da França?',
+    'Qual a capital da França?',
     'A capital da França é Paris'
 )
 
-criaCARTAO(
+criaCartao(
     'Programação',
     'O que é uma função?',
     'Uma função é um bloco de código que executa alguma tarefa'
+)
+
+criaCartao(
+    'Lingua inglesa',
+    'Como se diz oi em Inglês?',
+    'Oi em ingles é HI (RAI)'
 )
